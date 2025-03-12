@@ -8,9 +8,6 @@ import java.util.List;
 import lombok.*;
 import lombok.experimental.FieldDefaults;
 
-import java.time.LocalDateTime;
-import java.util.*;
-
 @Entity
 @Getter
 @Setter
